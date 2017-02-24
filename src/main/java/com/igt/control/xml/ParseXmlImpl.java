@@ -64,26 +64,5 @@ public class ParseXmlImpl implements ParseXml<Avvenimento> {
         return avvenimentos;
     }
 
-    public static void main(String[] args) throws Exception {
 
-        ParseXml<Avvenimento> parseXml = new ParseXmlImpl();
-        List<Avvenimento> avvenimentos = parseXml.doParsing();
-
-        for (Avvenimento avvenimento : avvenimentos) {
-
-            System.out.println(avvenimento.getCodPrograma());
-            System.out.println(avvenimento.getSiglaSport());
-            System.out.println(avvenimento.getDesManif());
-            System.out.println(avvenimento.getDesAvvenimento());
-            System.out.println("+++++++++++");
-            List<String> desTipoSco = avvenimento.getDesTipoSco();
-
-            for (String s : desTipoSco) {
-                System.out.println(s);
-            }
-
-            System.out.println("------------------------");
-
-        }
-    }
 }

@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livexml creazione="12:16:33">
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="CEGT" des_manif="EGITTO" num_avvenimento="16016" des_avvenimento="HARAS EL HODOOD - MISR LE" dateTime="27/11/14 16:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16097" des_avvenimento="DYNAMO MOSCOW - PANATHINA" dateTime="27/11/14 17:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16098" des_avvenimento="FC KRASNODAR - OSC LILLE" dateTime="27/11/14 18:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16099" des_avvenimento="AALBORG BK - STEAUA BUCUR" dateTime="27/11/14 19:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16100" des_avvenimento="DINAMO MINSK - PAOK" dateTime="27/11/14 19:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16101" des_avvenimento="SP. LOKEREN - LEGIA WARSZ" dateTime="27/11/14 19:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16102" des_avvenimento="RIJEKA - STANDARD LIEGE" dateTime="27/11/14 19:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16103" des_avvenimento="FEYENOORD - FC SEVILLA" dateTime="27/11/14 19:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16104" des_avvenimento="SK SL. BRATISLAVA - YOUNG" dateTime="27/11/14 19:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16105" des_avvenimento="WOLFSBURG - EVERTON" dateTime="27/11/14 19:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16633" sigla_sport="CALCIO" status_code="0" status_desc="Non iniziata" current_period_start="" squadra1="Guingamp" squadra2="Fiorentina" score_type="" score_team_1="0" score_team_2="0" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="33" des_avvenimento="GUINGAMP - FIORENTINA" dateTime="27/11/14 19:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16633" sigla_sport="CALCIO" status_code="0" status_desc="Non iniziata" current_period_start="" squadra1="Sparta Praga" squadra2="Napoli" score_type="" score_team_1="0" score_team_2="0" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="34" des_avvenimento="SPARTA PR. - NAPOLI" dateTime="27/11/14 19:00" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16108" des_avvenimento="VILLARREAL - MONCHENGLAD." dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16109" des_avvenimento="HJK HELSINKI - FC KOPENHA" dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16110" des_avvenimento="CELTIC - SALZBURG" dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16111" des_avvenimento="ASTRA GIURGIU - DIN. ZAGR" dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16112" des_avvenimento="TOTTENHAM - PARTIZAN B." dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16113" des_avvenimento="ASTERAS TR. - BESIKTAS" dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16114" des_avvenimento="ESTORIL - PSV" dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16115" des_avvenimento="SAINT ETIENNE - KARABAKH" dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="CALCIO" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="16126" des_avvenimento="ZURICH - AP LIMASSOL" dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16633" sigla_sport="CALCIO" status_code="0" status_desc="Non iniziata" current_period_start="" squadra1="Torino" squadra2="Club Brugge" score_type="" score_team_1="0" score_team_2="0" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="35" des_avvenimento="TORINO - CLUB BRUGES" dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16633" sigla_sport="CALCIO" status_code="0" status_desc="Non iniziata" current_period_start="" squadra1="Inter" squadra2="Dnipro" score_type="" score_team_1="0" score_team_2="0" sigla_manif="EULE" des_manif="EUROPA LEAGUE" num_avvenimento="36" des_avvenimento="INTER - DNIPRO" dateTime="27/11/14 21:05" des_sport="CALCIO">
+      <scommessa cod_tipo_sco="63" des_tipo_sco="LIVE 1X2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="65" des_tipo_sco="LIVE SEGNA GOL 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="TEAM 1" quota="101" />
+         <evento num_evento="2" des_evento="NESSUN" quota="101" />
+         <evento num_evento="3" des_evento="TEAM 2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="80" des_tipo_sco="LIVE U/O 2,5" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="UNDER" quota="101" />
+         <evento num_evento="2" des_evento="OVER" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="167" des_tipo_sco="LIVE 1X2 PRIMO TEMPO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="X" quota="101" />
+         <evento num_evento="3" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="TENNIS" sigla_manif="T524" des_manif="ITF TUNISIA" num_avvenimento="15887" des_avvenimento="MUNOZ-ABREU - GHEDIN" dateTime="27/11/14 11:00" des_sport="TENNIS">
+      <scommessa cod_tipo_sco="89" des_tipo_sco="LIVE VINC. PARTITA" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="1" quota="400" />
+         <evento num_evento="2" des_evento="2" quota="118" />
+      </scommessa>
+      <scommessa cod_tipo_sco="90" des_tipo_sco="LIVE SET 3 SI/NO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="SI" quota="245" />
+         <evento num_evento="2" des_evento="NO" quota="145" />
+      </scommessa>
+      <scommessa cod_tipo_sco="93" des_tipo_sco="LIVE VINC. SET 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="600" />
+         <evento num_evento="2" des_evento="2" quota="108" />
+      </scommessa>
+      <scommessa cod_tipo_sco="94" des_tipo_sco="LIVE VINC. SET 2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="1" quota="230" />
+         <evento num_evento="2" des_evento="2" quota="150" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="TENNIS" sigla_manif="T490" des_manif="ITF EGITTO" num_avvenimento="15888" des_avvenimento="CAGN/GILLE  - UZHYLOV/ZIE" dateTime="27/11/14 12:00" des_sport="TENNIS">
+      <scommessa cod_tipo_sco="89" des_tipo_sco="LIVE VINC. PARTITA" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="93" des_tipo_sco="LIVE VINC. SET 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="TENNIS" sigla_manif="T599" des_manif="CIPRO" num_avvenimento="15891" des_avvenimento="HOVHA/JECAN - MILUS/NEYK" dateTime="27/11/14 12:00" des_sport="TENNIS">
+      <scommessa cod_tipo_sco="89" des_tipo_sco="LIVE VINC. PARTITA" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="1" quota="155" />
+         <evento num_evento="2" des_evento="2" quota="230" />
+      </scommessa>
+      <scommessa cod_tipo_sco="90" des_tipo_sco="LIVE SET 3 SI/NO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="SI" quota="240" />
+         <evento num_evento="2" des_evento="NO" quota="150" />
+      </scommessa>
+      <scommessa cod_tipo_sco="93" des_tipo_sco="LIVE VINC. SET 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="1" quota="165" />
+         <evento num_evento="2" des_evento="2" quota="205" />
+      </scommessa>
+      <scommessa cod_tipo_sco="94" des_tipo_sco="LIVE VINC. SET 2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="1" quota="155" />
+         <evento num_evento="2" des_evento="2" quota="230" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="TENNIS" sigla_manif="ITUR" des_manif="ITF TURCHIA" num_avvenimento="15892" des_avvenimento="DANIEL/ROSE - ANIL/TOPSEL" dateTime="27/11/14 12:00" des_sport="TENNIS">
+      <scommessa cod_tipo_sco="89" des_tipo_sco="LIVE VINC. PARTITA" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="1" quota="160" />
+         <evento num_evento="2" des_evento="2" quota="210" />
+      </scommessa>
+      <scommessa cod_tipo_sco="90" des_tipo_sco="LIVE SET 3 SI/NO" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="SI" quota="230" />
+         <evento num_evento="2" des_evento="NO" quota="155" />
+      </scommessa>
+      <scommessa cod_tipo_sco="93" des_tipo_sco="LIVE VINC. SET 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="1" quota="160" />
+         <evento num_evento="2" des_evento="2" quota="210" />
+      </scommessa>
+      <scommessa cod_tipo_sco="94" des_tipo_sco="LIVE VINC. SET 2" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="0">
+         <evento num_evento="1" des_evento="1" quota="165" />
+         <evento num_evento="2" des_evento="2" quota="205" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="TENNIS" sigla_manif="T599" des_manif="CIPRO" num_avvenimento="15894" des_avvenimento="BORT/CREP - BOIS/GLANCY" dateTime="27/11/14 13:30" des_sport="TENNIS">
+      <scommessa cod_tipo_sco="89" des_tipo_sco="LIVE VINC. PARTITA" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="93" des_tipo_sco="LIVE VINC. SET 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="TENNIS" sigla_manif="ITUR" des_manif="ITF TURCHIA" num_avvenimento="15895" des_avvenimento="GAYDAR/SKAML - GORG/KVATS" dateTime="27/11/14 13:30" des_sport="TENNIS">
+      <scommessa cod_tipo_sco="89" des_tipo_sco="LIVE VINC. PARTITA" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="93" des_tipo_sco="LIVE VINC. SET 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="TENNIS" sigla_manif="T524" des_manif="ITF TUNISIA" num_avvenimento="15896" des_avvenimento="GHED/MARG - BETTL/HOYT" dateTime="27/11/14 13:30" des_sport="TENNIS">
+      <scommessa cod_tipo_sco="89" des_tipo_sco="LIVE VINC. PARTITA" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="93" des_tipo_sco="LIVE VINC. SET 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="TENNIS" sigla_manif="T524" des_manif="ITF TUNISIA" num_avvenimento="15897" des_avvenimento="MUN ABR/PEREZ S - MARC/ON" dateTime="27/11/14 14:00" des_sport="TENNIS">
+      <scommessa cod_tipo_sco="89" des_tipo_sco="LIVE VINC. PARTITA" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="93" des_tipo_sco="LIVE VINC. SET 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="TENNIS" sigla_manif="T485" des_manif="ITF CILE" num_avvenimento="15904" des_avvenimento="PODLIPNIK CAS. - RIVERA A" dateTime="27/11/14 16:30" des_sport="TENNIS">
+      <scommessa cod_tipo_sco="89" des_tipo_sco="LIVE VINC. PARTITA" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="93" des_tipo_sco="LIVE VINC. SET 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+   <avvenimento cod_programma="16473" sigla_sport="TENNIS" sigla_manif="T487" des_manif="ITF COLOMBIA" num_avvenimento="15905" des_avvenimento="BROGAN - LUCERO" dateTime="27/11/14 16:30" des_sport="TENNIS">
+      <scommessa cod_tipo_sco="89" des_tipo_sco="LIVE VINC. PARTITA" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+      <scommessa cod_tipo_sco="93" des_tipo_sco="LIVE VINC. SET 1" massimo_avv="20" minimo_avv="1" attivo_handicap="" handicap="0" cod_stato_accett="1">
+         <evento num_evento="1" des_evento="1" quota="101" />
+         <evento num_evento="2" des_evento="2" quota="101" />
+      </scommessa>
+   </avvenimento>
+</livexml>

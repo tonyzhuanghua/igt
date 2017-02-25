@@ -1,4 +1,6 @@
-package com.igt.control;
+package com.igt.test;
+
+import com.igt.test.TestCollation;
 
 import java.util.Scanner;
 

@@ -1,12 +1,11 @@
 package com.igt.control.parse;
 
-import com.igt.control.parse.ParseXml;
 import com.igt.entity.Avvenimento;
 import org.dom4j.Document;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
-import java.io.File;
+import java.io.InputStream;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -24,8 +23,9 @@ public class ParseXmlImpl implements ParseXml<Avvenimento> {
         List<Avvenimento> avvenimentos = new ArrayList<Avvenimento>();
 
         SAXReader reader = new SAXReader();
-        File file = new File("src/main/resources/Java_EE_Test.xml");
-        Document document = reader.read(file);
+        InputStream inputStream = getClass().getClassLoader().getResourceAsStream("Java_EE_Test.xml");
+
+        Document document = reader.read(inputStream);
         Element root = document.getRootElement();
 
         Iterator it = root.elementIterator("avvenimento");

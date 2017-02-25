@@ -1,5 +1,6 @@
-package com.igt.control;
+package com.igt.test;
 
+import com.igt.control.Collation;
 import com.igt.control.filter.SiglaSportFilter;
 import com.igt.control.rank.Numerical;
 import com.igt.control.sort.ByDateTime;
@@ -9,10 +10,9 @@ import com.igt.control.trans.SiglaSportAndDesTipoSco;
 import com.igt.entity.Avvenimento;
 import com.igt.control.sort.ByCodPrograma;
 import com.igt.control.parse.ParseXmlImpl;
-import com.sun.deploy.util.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.runners.Parameterized;
 
 import java.util.*;
 

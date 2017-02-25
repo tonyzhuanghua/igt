@@ -1,7 +1,6 @@
 package com.igt.control.rank;
 
 import java.util.List;
-
 import com.igt.entity.Avvenimento;
 
 public class Numerical implements Rank<Avvenimento> {

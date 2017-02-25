@@ -1,5 +1,6 @@
-package com.igt.control.xml;
+package com.igt.control.parse;
 
+import com.igt.control.parse.ParseXml;
 import com.igt.entity.Avvenimento;
 import org.dom4j.Document;
 import org.dom4j.Element;
@@ -39,10 +40,7 @@ public class ParseXmlImpl implements ParseXml<Avvenimento> {
 
 
             Date date = new SimpleDateFormat("dd/MM/yy HH:mm").parse(element.attributeValue("dateTime"));
-
-            SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy HH:mm");
-
-            String dateTime = sdf.format(date);
+            String dateTime = new SimpleDateFormat("dd-MM-yyyy HH:mm").format(date);
 
             avvenimento.setDateTime(dateTime);
 
@@ -53,13 +51,10 @@ public class ParseXmlImpl implements ParseXml<Avvenimento> {
                 desTipoSco.add(e.attributeValue("des_tipo_sco"));
             }
 
-
             avvenimento.setDesTipoSco(desTipoSco);
-
 
             avvenimentos.add(avvenimento);
         }
-
 
         return avvenimentos;
     }

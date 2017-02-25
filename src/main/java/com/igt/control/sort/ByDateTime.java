@@ -6,10 +6,24 @@ import java.text.SimpleDateFormat;
 import java.util.Comparator;
 import java.util.Date;
 
+import static com.igt.control.sort.Direction.ASCENDING;
+
 /**
  * Created by zhuanghua on 2017/2/24.
  */
-public class ByDateTimeDesc implements Comparator<Avvenimento> {
+public class ByDateTime implements Comparator<Avvenimento> {
+
+    private Direction direction;
+
+    public ByDateTime(){
+        this.direction = ASCENDING;
+    }
+
+    public ByDateTime(Direction direction){
+        this.direction = direction;
+    }
+
+
     public int compare(Avvenimento o1, Avvenimento o2) {
 
         int comparatorValue = 0;
@@ -26,7 +40,7 @@ public class ByDateTimeDesc implements Comparator<Avvenimento> {
             comparatorValue = -1;
         }
 
-        return comparatorValue;
+        return direction.getDirection() * comparatorValue;
 
 
     }

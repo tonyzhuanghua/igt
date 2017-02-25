@@ -4,10 +4,24 @@ import com.igt.entity.Avvenimento;
 
 import java.util.Comparator;
 
+import static com.igt.control.sort.Direction.ASCENDING;
+
 /**
  * Created by zhuanghua on 2017/2/24.
  */
-public class ByCodProgramaDesc implements Comparator<Avvenimento> {
+public class ByCodPrograma implements Comparator<Avvenimento> {
+
+    private Direction direction;
+
+    public ByCodPrograma(){
+        this.direction = ASCENDING;
+    }
+
+    public ByCodPrograma(Direction direction){
+        this.direction = direction;
+    }
+
+
     public int compare(Avvenimento o1, Avvenimento o2) {
 
         int comparatorValue = 0;
@@ -20,7 +34,7 @@ public class ByCodProgramaDesc implements Comparator<Avvenimento> {
             comparatorValue = -1;
         }
 
-        return  comparatorValue;
+        return  direction.getDirection() * comparatorValue;
 
 
     }

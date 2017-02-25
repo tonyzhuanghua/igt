@@ -15,6 +15,15 @@ import java.util.Set;
     private String desAvvenimento;
     private String dateTime;
     private List<String> desTipoSco;
+    private int rank;
+
+    public int getRank() {
+        return rank;
+    }
+
+    public void setRank(int rank) {
+        this.rank = rank;
+    }
 
     public List<String> getDesTipoSco() {
         return desTipoSco;

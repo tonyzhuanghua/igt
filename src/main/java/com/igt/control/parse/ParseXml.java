@@ -1,4 +1,4 @@
-package com.igt.control.xml;
+package com.igt.control.parse;
 
 import java.util.List;
 

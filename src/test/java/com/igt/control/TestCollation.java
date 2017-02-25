@@ -37,15 +37,7 @@ public class TestCollation {
 
         List<Avvenimento> out = collation.getItems();
 
-        for (Avvenimento avvenimento : out) {
-            System.out.println(
-                    avvenimento.getCodPrograma() + "," +
-                            avvenimento.getSiglaSport() + "," +
-                            avvenimento.getDesManif() + "," +
-                            avvenimento.getDesAvvenimento() + "," +
-                            avvenimento.getDateTime()
-            );
-        }
+        displayAvv(out);
     }
 
 
@@ -56,15 +48,20 @@ public class TestCollation {
 
         List<Avvenimento> out = collation.getItems();
 
+        displayAvv(out);
+    }
+
+    private void displayAvv(List<Avvenimento> out){
         for (Avvenimento avvenimento : out) {
             System.out.println(
-                    avvenimento.getCodPrograma() + "," +
-                            avvenimento.getSiglaSport() + "," +
-                            avvenimento.getDesManif() + "," +
-                            avvenimento.getDesAvvenimento() + "," +
+                    // avvenimento.getCodPrograma() + "," +
+                    avvenimento.getSiglaSport() + ", " +
+                            avvenimento.getDesManif() + ", " +
+                            avvenimento.getDesAvvenimento() + ", " +
                             avvenimento.getDateTime()
             );
         }
+
     }
 
     @Test

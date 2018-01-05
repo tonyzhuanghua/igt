@@ -8,6 +8,11 @@ import java.util.*;
 
 /**
  * Created by zhuanghua on 2017/2/24.
+ * 这个类的目的是使用一个静态方法init(List<T> sourceItems)返回一个Collation实例，
+ * 然后对这个实例中两个私有变量，比如集合List<T>进行sort,rank,filter等操作
+ * 操作完毕后仍然this，即返回这个Collation类的实例，仍然包含两个变量List<T>和Map，得以供给下次操作
+ * 这个方法可以看成一个facade模式，因为facade模式就是通过一个类，来控制下面的子系统。
+ * 对于调用这个Collation类的子系统，它们不用直接和实际操作的类打交道，而是通过Collation这个facade来打交道
  */
 public class Collation<T> {
 
